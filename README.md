@@ -1,13 +1,4 @@
 # hw10_enkhjin
-  <meta charset="utf-8">
-  <title>Top 10 Highest C/P Products — Mongolia (Week 11)</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 24px auto; }
-    table { width: 100%; border-collapse: collapse; margin-top: 16px; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background: #eee; }
-    caption { font-weight: bold; margin-bottom: 8px; }
-  </style>
 </head>
 <body>
   <h1>Top 10 Highest C/P Products — Mongolia (Week 11)</h1>
