@@ -1,7 +1,4 @@
 # hw10_enkhjin
-<!doctype html>
-<html lang="en">
-<head>
   <meta charset="utf-8">
   <title>Top 10 Highest C/P Products — Mongolia (Week 11)</title>
   <style>
