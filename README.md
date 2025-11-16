@@ -22,6 +22,5 @@
       <tr><td>10</td><td>JBL Flip 6 Portable Speaker</td><td>3,000</td><td>~456,225</td><td>73</td><td>0.00016</td></tr>
     </tbody>
   </table>
-  <p>Note: Landed costs are rough estimates using freight + 5% duty + 10% VAT. Actual cost may vary depending on courier, insurance, and duty classification.</p>
 </body>
 </html>
